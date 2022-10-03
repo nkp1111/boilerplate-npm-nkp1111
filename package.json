@@ -2,6 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Neeraj Parmar",
 	"description": "A project to learn NPM packaging",
+	"keywords": [
+		"freecodecamp",
+		"npm-packaging",
+		"learning"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
